@@ -1,0 +1,7 @@
+C:\Users\dinka\Downloads\Net-core-2.1-mvc-demo-application-master\.Net-core-2.1-mvc-demo-application-master\DemoApplication.MVC\obj\Debug\netcoreapp2.1\DemoApplication.MVC.csprojAssemblyReference.cache
+C:\Users\dinka\Downloads\Net-core-2.1-mvc-demo-application-master\.Net-core-2.1-mvc-demo-application-master\DemoApplication.MVC\obj\Debug\netcoreapp2.1\DemoApplication.MVC.AssemblyInfoInputs.cache
+C:\Users\dinka\Downloads\Net-core-2.1-mvc-demo-application-master\.Net-core-2.1-mvc-demo-application-master\DemoApplication.MVC\obj\Debug\netcoreapp2.1\DemoApplication.MVC.AssemblyInfo.cs
+C:\Users\dinka\Downloads\Net-core-2.1-mvc-demo-application-master\.Net-core-2.1-mvc-demo-application-master\DemoApplication.MVC\obj\Debug\netcoreapp2.1\DemoApplication.MVC.RazorAssemblyInfo.cache
+C:\Users\dinka\Downloads\Net-core-2.1-mvc-demo-application-master\.Net-core-2.1-mvc-demo-application-master\DemoApplication.MVC\obj\Debug\netcoreapp2.1\DemoApplication.MVC.RazorAssemblyInfo.cs
+C:\Users\dinka\Downloads\Net-core-2.1-mvc-demo-application-master\.Net-core-2.1-mvc-demo-application-master\DemoApplication.MVC\obj\Debug\netcoreapp2.1\DemoApplication.MVC.TagHelpers.input.cache
+C:\Users\dinka\Downloads\Net-core-2.1-mvc-demo-application-master\.Net-core-2.1-mvc-demo-application-master\DemoApplication.MVC\obj\Debug\netcoreapp2.1\DemoApplication.MVC.TagHelpers.output.cache
